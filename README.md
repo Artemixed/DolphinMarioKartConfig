@@ -1,4 +1,4 @@
-# Xbox Controller Profiles for Dolphin Emulator when playing Mario Kart
+# Xbox Controller Profile for Dolphin Emulator when playing Mario Kart
 
 *How To Use?*
 
